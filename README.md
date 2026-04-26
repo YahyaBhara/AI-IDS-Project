@@ -18,8 +18,11 @@ This project implements a Machine Learning-based Intrusion Detection System usin
 ## How to Run
 
 ### 1. Clone the repository
+
+```bash
 git clone https://github.com/YahyaBhara/AI-IDS-Project.git
 cd AI-IDS-Project
+```
 
 ### 2. Install dependencies
 pip install -r requirements.txt
