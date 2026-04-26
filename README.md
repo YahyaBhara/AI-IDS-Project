@@ -18,25 +18,13 @@ This project implements a Machine Learning-based Intrusion Detection System usin
 ## How to Run
 
 ### 1. Clone the repository
-
-```bash id="8c3y5z"
-git clone https://github.com/YOUR_USERNAME/AI-IDS-Project.git
-cd AI-IDS-Project
-```
+(https://github.com/YahyaBhara/AI-IDS-Project)
 
 ### 2. Install dependencies
-
-```bash id="4n3z1r"
 pip install -r requirements.txt
-```
 
 ### 3. Run the notebook
-
-```bash id="f3z9lm"
-jupyter lab
-```
-
-Open `notebook.ipynb` and run all cells.
+Open `code.ipynb` and run all cells.
 
 ## Dataset
 
